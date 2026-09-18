@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+motor
+pymongo
+strawberry-graphql[fastapi]
+pyjwt
+bcrypt
+python-dotenv
+pydantic-settings
+prometheus-fastapi-instrumentator
+python-multipart
